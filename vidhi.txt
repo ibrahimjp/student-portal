@@ -1,0 +1,7 @@
+Name: Vidhi Panchal
+Course: BCA
+Semester: 3th Semester
+Subject: GitHub / Version Control
+
+git add vidhi.txt
+git commit -m "Add student details file"
